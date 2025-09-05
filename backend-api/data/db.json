@@ -1,0 +1,18 @@
+{
+  "users": [],
+  "coupons": [
+    {
+      "id": "seed1",
+      "ownerId": "seeduser",
+      "createdAt": "2025-09-01T12:00:00.000Z",
+      "claimedBy": null,
+      "imageUrl": null,
+      "code": "WELCOME10",
+      "storeName": "Supermarché X",
+      "title": "-10% sur tout",
+      "category": "Alimentaire",
+      "expiresAt": "2025-12-31",
+      "terms": "Valable en magasin uniquement. Non cumulable."
+    }
+  ]
+}
